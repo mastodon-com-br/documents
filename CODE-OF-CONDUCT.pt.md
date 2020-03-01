@@ -1,115 +1,114 @@
-mastodon.com.br is a [Mastodon instance](https://joinmastodon.org) aimed at people from Brazil, but people that do not speak portuguese or that post in more than one language are equally welcome.
+O mastodon.com.br é uma [instância do Mastodon](https://joinmastodon.org) voltada para para falantes de português brasileiro.
 
-This instance is **moderated**. We try to be a space that is feminist, antiracist, anticolonialist, accessible and inclusive to trans and non-binary people.
+Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, antifacista, acessível e inclusivo à pessoas trans e não-binárias.
 
-To keep this space this way, all users from mastodon.com.br need to follow our code of conduct described below. If you think this instance is not for you, check out [our suggestion of other instances for portuguese speakers](https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=).
+Para mantermos esse espaço dessa maneira, qualquer usuário do mastodon.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada [nossa sugestão de outras instâncias de falantes de português](https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=).
 
-## Code of Conduct
+## Código de conduta
 
-### Unacceptable behavior
+### Comportamenos inadmissíveis
 
-Accounts that engage in the following behaviors will be suspended without appeal:
+Contas que engajarem nos seguintes padrões de comportamento serão suspensas sem recurso:
 
-#### Posting illegal content or content without concrete legal definition such as:
+#### Publicação de conteúdo ilegal, ou ainda sem definição legal concreta, como:
 
-*   Sexual depictions of children or child pornography (including lolicon, shotacon)
-*   Promoting nazism or fascism.
+*   Pornografia infantil.
+*   Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).
+*   Apologia ao nazismo ou fascismo.
+*   Discurso que incentive práticas nocivas ao bem-estar fisico ou mental como disturbios alimentares (pró-ana, pró-mia), automutilação (pro-cutting) e suicídio.
 
-#### Hate speech or inflamatory speech, such as:
+#### Discurso de ódio e/ou inflamatório, como:
 
-*   Racist, sexist, homophobic, transphobic, ableist, xenophobic, islamophobic or fatphobic speech.
-*   Threats of violence or violent language towards other people.
-*   Defense of totalitarian regimes
-*   Violent nationalism
-*   Intentional misinformation.
+*   Comportamentos e discursos racistas, sexistas, homofóbicos, transfóbicos, capacitistas, xenofóbicos, islamofóbicos, gordofóbicos.
+*   Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
+*   Apologia a governos totalitários.
+*   Xenofobia e/ou nacionalismo extremista.
+*   Desinformação intencional.
 
-#### Threathening to publish or publishing private content, such as:
+#### Ameaça de publicação ou publicação de conteúdo privado, como:
 
-*   Posting another's personal information (informally called "doxing").
-*   Private conversations, such as DM's, without consent of the other parties.
+*   Informações pessoais identificáveis (prática conhecida como "doxing").
+*   Conversas privadas, como mensagens privadas ou diretas, sem o consentimento da outra parte.
 
-#### Invasive or intimidating behaviors, such as:
+#### Atitudes invasivas e/ou intimidadoras, como:
 
-*   Make comments or invasive questions (such as "What is your birth name?" or constant attempts at trying to know the location of someone)
-*   To continue a conversation after the other party asked for it to be over (harassment)
-*   Unwelcome sexual advancements, jokes or comments.
-*   Deliberate intimidation, stalking.
+*   Fazer comentários ou perguntas invasivos (tais como "qual é o seu nome de registro?" ou insistir em saber a localização de determinada pessoa).
+*   Insistir em continuar uma conversa após a outra parte expressamente pedir para que ela se encerre (assédio).
+*   Atenção sexual indesejada. Isso inclui piadas ou comentários sexuais; e avanços sexuais indesejados.
+*   Intimidação deliberada, stalking.
 
-#### False representation, such as:
+#### Falsidade ideológica, como:
 
-*   Creating accounts that present as celebrities or brands. Parody accounts or fan accounts need to be marked in a clear way.
+*   Criar contas para se passar por celebridades ou marcas. Contas paródia ou contas de fã precisam estar explicitamente sinalizadas.
 
-### Unwanted behavior
+### Comportamentos desencorajados
 
-The following behavior is unwanted. After a warning, they will cause suspension.
+Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
 
-*   Flood (posting the same message many times, or several messages in a short interval in the public timelines (local and global).
-*   Spam (unwanted messages or advertising)
+*   Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
+*   Spam (mensagens indesejadas ou não requisitadas).
 
-### Content Warning policy
+### Política de aviso de conteúdo
 
-Mastodon has a feature called "Content Warning".
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês "content warning" ou "CW".
 
-TODO
+O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 
-Content Warning is required in toots that:
+*   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
+*   Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
+*   Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
+*   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#privacidade).
+*   Vídeos com movimentos rápidos e luzes intermitentes.
 
-*   Contain traumatic subjects (such as: rape, violence).
-*   Contain movie, tv show or game plots (i.e: 'Spoilers Power Rangers S01E01').
-*   Contain nudity, sexual content and violent images (even if in drawing or artistic pictures)
-*   Descriptions of sexual nature or content in [public posts](#privacy).
-*   Videos with quick movements and flashing lights.
+O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
 
-Use of content warning is not required, but suggested, in posts envolving the following subjects or images:
+*   Política
+*   Doenças e distúrbios mentais
+*   Distúrbios alimentares
+*   Relacionamentos abusivos
+*   Comida
+*   Álcool, cigarro e outras drogas
+*   Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias
+*   Retratos de si, principalmente aquelas com contato ocular direto
 
-*   Food
-*   Politics
-*   Alcohol, tobacco and other drugs
-*   Spiders, reptiles and other things that could cause discomfort in people with phobias
-*   Selfies, specially with eye contact
+Lembre-se, os posts são abertos, a não ser que se escolha postar apenas para seguidores, e nem todo mundo curte o que você curte. Tenha bom senso e use o aviso de conteúdo em assuntos que você gosta muito mas que pode incomodar outras pessoas, como esportes, programas de tv, etc.
 
-### On privacy levels
+É simples, rápido e indolor.
 
-<a name="privacy"></a>In Mastodon each status can be posted with one of three different audience configurations. It's important to have that in mind because certain rules apply only to one or other configuration:
+### Inatividade
 
-*   Followers-only: The toot is sent to all followers, but does not appear in the public profile page of the person that posted it, nor does it appear in hashtag searches.
-*   Unlisted: The toot is sent to all followers, appear in the public profile page of the person that posted it, but does not appear in hashtag searches.
-*   Public: The toot is sent to the "local" and "federated" timelines (which are shared by other members of the instance), is sent to all followers, appears in the public profile page of the person that posted it and appears in hashtag searches.
+Contas inativas por mais de um ano estão sujeitas a serem removidas da plataforma. Enviaremos um aviso alguns dias antes, dando a possibilidade que a pessoa possa manter a conta.
 
-### On Crossposters
+### Sobre níveis de privacidade
 
-Crossposters are tools, automated or otherwise, used to post from other networks (such as Twitter or Tumblr) into Mastodon. The use of such tools is allowed, but the following rules apply:
+<a name="privacidade"></a>No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
-1.  Retweets, quotes (retweets with comments) or reblogs **cannot** be posted with the "Public" privacy setting.
-2.  Posts coming from other networks, such as Twitter, still need to obey to the other rules described in this code of conduct, such as the content warning policy.
-3.  Crossposters can only be used with the condition that you follow your notifications, otherwise they will result in suspension after a first warning.
+*   Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
+*   Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
+*   Pública: A publicação é enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
 
-### How to report a code of conduct violation
+### Sobre Crossposters
 
-Mastodon has tools for reporting toots and profiles. Any toot or profile you believe that's violating a rule of this code can be reported using the reporting tools and it will be sent to all moderators.
+Crossposters são ferramentas, automatizadas ou não, usadas para postar a partir de outras redes (como Twitter ou Tumblr) para o Mastodon. O uso destas ferramentas é permitido, mas as seguintes regras se aplicam:
 
-If your report is relative to one of the moderators, you can report the violation through direct message to one of the other moderators.
+1.  Retweet, quotes (retweets com comentários) ou reblogs não podem ser postados com privacidade pública.
+2.  Posts vindos de outras redes, como o Twitter, ainda precisam obedecer à outras regras desse código, tais como avisos de conteúdo.
+3.  Crossposters só podem ser usados na condição de que você acompanha as suas notificações, do contrário resultará em suspensão após uma advertência.
 
-You can report a toot or profile even if the situation is not described directly in these rules, if the situation cause you discomfort. The moderation team will evaluate each case individually.
+### Como reportar uma violação do código de conduta
 
-We will respond in a private manner to all reports we receive, making an effort that the first response is given in the first 24 hours.
+O Mastodon possui ferramentas internas de denúncia. Qualquer post ou perfil que você acredite que esteja em violação dessas regras pode ser denunciado utilizando a ferramenta interna do Mastodon e ele será enviado aos moderadores.
 
-## About mastodon.com.br
+Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a violação através de mensagem direta à um dos outros moderadores.
 
-### Our moderation team
+Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.
 
-Our current moderation team is composed by
-[@<span>claus</span>](https://mastodon.com.br/@claus)
+Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que a primeira resposta seja dada nas primeiras 24 horas.
 
-### Federation
+## Sobre o mastodon.com.br
 
-Being a decentralized software, a Mastodon server (known as "instance"), can communicate with other instances.
+### Nosso time de moderação
 
-mastodon.com.br federates with most of the instances. The exceptions can be seen here: [list of blocks and mutes](https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md).
-
-## mastodon.com.br particularities
-
-mastodon.com.br uses a slightly modified version of Mastodon, with the following changes:
-
-*   Up to 500 characters in the bio (instead of the normal 160)
-*   Possibility to publish instance-only toots (toots that do not federate to other instances)
+Nosso time de moderação atual é composto por
+[@<span>claus</span>](https://mastodon.com.br/@claus) e
+[@<span>dani</span>](https://mastodon.com.br/@Dani)
