@@ -57,7 +57,7 @@ O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 *   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
 *   Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
 *   Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
-*   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#sobre-niveis-de-privacidade).
+*   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#sobre-n-veis-de-privacidade).
 *   Vídeos com movimentos rápidos e luzes intermitentes.
 
 O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
