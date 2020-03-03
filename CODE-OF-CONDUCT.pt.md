@@ -81,11 +81,12 @@ Contas inativas por mais de um ano estão sujeitas a serem removidas da platafor
 
 ### Sobre níveis de privacidade
 
-No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
+No Mastodon cada status pode ser postado em quatro diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
-*   Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-*   Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-*   Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+*   _Pública:_ A publicação é enviada para as timelines "Local" e "Global", compartilhadas por outros membros da instância, é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+*   _Não listada:_ A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags e não aparece em listas "Local" ou "Global".
+*   _Privada:_ A publicação é enviada apenas para os seguidores.
+*   _Direta:_ A publicação é enviada apenas para os usuários mencionados.
 
 ### Sobre Crossposters
 
