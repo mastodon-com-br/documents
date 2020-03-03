@@ -1,8 +1,8 @@
-O mastodon.com.br é uma [instância do Mastodon](https://joinmastodon.org) voltada para para falantes de português brasileiro.
+Olá! Sejam bem vindos à mastodon.com.br, uma [instância do Mastodon](https://joinmastodon.org) voltada para falantes de português brasileiro.
 
-Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, antifacista, acessível e inclusivo à pessoas trans e não-binárias.
+Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, de identidades e orientações sexuais diversas, feministas, neurodivergentes, independente de religião, raça e orientação política.
 
-Para mantermos esse espaço dessa maneira, qualquer usuário do mastodon.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada [nossa sugestão de outras instâncias de falantes de português](https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=).
+Mas para que isso funcione a instância é moderada, nosso time de moderação atual é composto por [@claus](https://mastodon.com.br/@claus) e [@dani](https://mastodon.com.br/@Dani), e todos usuário precisam seguir o código de conduta aqui descrito. Caso novas regras sejam necessárias os administradores consultarão os usuários através de votação e incluirão as mesmas aqui.
 
 ## Código de conduta
 
@@ -15,7 +15,7 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 *   Pornografia infantil.
 *   Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).
 *   Apologia ao nazismo ou fascismo.
-*   Discurso que incentive práticas nocivas ao bem-estar fisico ou mental como disturbios alimentares (pró-ana, pró-mia), automutilação (pro-cutting) e suicídio.
+*   Discurso que incentiva práticas nocivas ao bem-estar físico ou mental como distúrbios alimentares (pró-ana, pró-mia), automutilação (pro-cutting) e suicídio.
 
 #### Discurso de ódio e/ou inflamatório, como:
 
@@ -23,7 +23,7 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 *   Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
 *   Apologia a governos totalitários.
 *   Xenofobia e/ou nacionalismo extremista.
-*   Desinformação intencional.
+*   Desinformação intencional ("fake news").
 
 #### Ameaça de publicação ou publicação de conteúdo privado, como:
 
@@ -50,20 +50,20 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 
 ### Política de aviso de conteúdo
 
-O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês "content warning" ou "CW".
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês “content warning” ou “CW”. Para mais informações sobre o uso, veja este post.
 
 O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 
 *   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
 *   Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
 *   Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
-*   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#privacidade).
+*   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#sobre-niveis-de-privacidade).
 *   Vídeos com movimentos rápidos e luzes intermitentes.
 
 O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
 
 *   Política
-*   Doenças e distúrbios mentais
+*   Distúrbios mentais
 *   Distúrbios alimentares
 *   Relacionamentos abusivos
 *   Comida
@@ -81,11 +81,11 @@ Contas inativas por mais de um ano estão sujeitas a serem removidas da platafor
 
 ### Sobre níveis de privacidade
 
-<a name="privacidade"></a>No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
+No Mastodon cada status pode ser postado em três diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
 *   Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
 *   Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-*   Pública: A publicação é enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+*   Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
 
 ### Sobre Crossposters
 
@@ -104,11 +104,3 @@ Caso a sua denúncia seja relativa a um dos moderadores, você pode reportar a v
 Você pode fazer uma denúncia mesmo que a sua situação não seja diretamente coberta por essas regras, caso a situação lhe cause desconforto. A moderação irá avaliar cada situação individualmente.
 
 Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um esforço para que a primeira resposta seja dada nas primeiras 24 horas.
-
-## Sobre o mastodon.com.br
-
-### Nosso time de moderação
-
-Nosso time de moderação atual é composto por
-[@<span>claus</span>](https://mastodon.com.br/@claus) e
-[@<span>dani</span>](https://mastodon.com.br/@Dani)
