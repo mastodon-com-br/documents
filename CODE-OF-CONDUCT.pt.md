@@ -1,4 +1,6 @@
-Olá! Sejam bem vindos à mastodon.com.br, uma [instância do Mastodon](https://joinmastodon.org) voltada para falantes de português brasileiro.
+Olá!
+
+Sejam bem vindos à mastodon.com.br, uma [instância do Mastodon](https://joinmastodon.org) voltada para falantes de português brasileiro.
 
 Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, de identidades e orientações sexuais diversas, feministas, neurodivergentes, independente de religião, raça e orientação política.
 
