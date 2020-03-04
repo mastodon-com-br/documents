@@ -45,7 +45,7 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 
 Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
 
-*   Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e federada).
+*   Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e global/federada).
 *   Spam (mensagens indesejadas ou não requisitadas).
 
 ### Política de aviso de conteúdo
@@ -55,7 +55,7 @@ O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês
 O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 
 *   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
-*   Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
+*   Contenham enredo de séries, jogos e filmes (por exemplo: "Spoilers de Power Rangers S01E01").
 *   Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
 *   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#sobre-n-veis-de-privacidade).
 *   Vídeos com movimentos rápidos e luzes intermitentes.
@@ -83,8 +83,8 @@ Contas inativas por mais de um ano estão sujeitas a serem removidas da platafor
 
 No Mastodon cada status pode ser postado em quatro diferentes configurações de audiência. É importante ter isso em mente porque certas regras só se aplicam a determinadas configurações:
 
-*   _Pública:_ A publicação é enviada para as timelines "Local" e "Global", compartilhadas por outros membros da instância, é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
-*   _Não listada:_ A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags e não aparece em listas "Local" ou "Global".
+*   _Pública:_ A publicação é enviada para as timelines local e global/federada, compartilhadas por outros membros da instância, é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+*   _Não listada:_ A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags e não aparece em timelines local ou global/federada.
 *   _Privada:_ A publicação é enviada apenas para os seguidores.
 *   _Direta:_ A publicação é enviada apenas para os usuários mencionados.
 
