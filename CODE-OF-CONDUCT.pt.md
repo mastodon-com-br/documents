@@ -4,7 +4,9 @@ Sejam bem vindos à mastodon.com.br, uma [instância do Mastodon](https://joinma
 
 Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, de identidades e orientações sexuais diversas, feministas, neurodivergentes, independente de religião, raça e orientação política.
 
-Mas para que isso funcione a instância é moderada, nosso time de moderação atual é composto por [@claus](https://mastodon.com.br/@claus) e [@dani](https://mastodon.com.br/@Dani), e todos usuários precisam seguir o código de conduta aqui descrito. Caso novas regras sejam necessárias os administradores consultarão os usuários através de votação e incluirão as mesmas aqui.
+Mas para que isso funcione a instância é _moderada_, nosso time de moderação atual é composto por [@claus](https://mastodon.com.br/@claus) e [@dani](https://mastodon.com.br/@Dani), e todos usuários precisam seguir o código de conduta aqui descrito. Caso novas regras sejam necessárias os administradores consultarão os usuários através de votação e incluirão as mesmas aqui.
+
+Nosso código foi inspirado no código de conduta da instância [masto.donte.com.br](https://masto.donte.com.br/about/more).
 
 ## Código de conduta
 
