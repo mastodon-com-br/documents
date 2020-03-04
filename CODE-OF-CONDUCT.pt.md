@@ -6,7 +6,7 @@ Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma i
 
 Mas para que isso funcione a instância é _moderada_, nosso time de moderação atual é composto por [@claus](https://mastodon.com.br/@claus) e [@dani](https://mastodon.com.br/@Dani), e todos usuários precisam seguir o código de conduta aqui descrito. Caso novas regras sejam necessárias os administradores consultarão os usuários através de votação e incluirão as mesmas aqui.
 
-Nosso código foi inspirado no código de conduta da instância [masto.donte.com.br](https://masto.donte.com.br/about/more).
+Agradecemos [@renatolond](https://masto.donte.com.br/@renatolond), do [masto.donte.com.br](https://masto.donte.com.br/about/more), que gentilmente permitiu que usassemos seu codigo de conduta como base para o nosso.
 
 ## Código de conduta
 
