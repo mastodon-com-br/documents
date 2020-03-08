@@ -1,10 +1,12 @@
 # Migrando de uma instância para outra
 
+Este é o passo-a-passo de como migrar sua conta no mastodon de uma instância para outra. Você pode migrar tudo (seguidores, seguidos, silenciados e bloqueados) exceto seus toots e mídia, você pode exportá-los mas não pode importá-los na nova instância.
+
 Primeiro de tudo, para migrar de uma instância para outra, você deve fazer uma nova conta na instância para a qual você quer mudar, então siga os passos abaixo:
 
 1.  **Na nova instância** vá em `Preferências` > `Conta` > `Configurações da conta`
 
-	![migrate-1](images/screenshots/migrar-instancia/migrate-1.png)
+    ![migrate-1](images/screenshots/migrar-instancia/migrate-1.png)
 
     Role a página, e em `Migrando de outra conta`, clique em `Criar um alias`
 
@@ -37,6 +39,13 @@ Primeiro de tudo, para migrar de uma instância para outra, você deve fazer uma
     Ao `Sobrescrever` você **apaga** o que tem na nova e mantém **apenas** o que estava na antiga.
 
     Clique `Enviar`.
+    
+    Repita o procedimento para cada arquivo:
+    -   Pessoas que você segue: `following_accounts.csv`
+    -   Lista de bloqueio: `blocked_accounts.csv`
+    -   Lista de silenciados: `muted_accounts.csv`
+    -   Lista de dominios bloqueados: `blocked_domains.csv`
+
 
 6. Agora voltando para **a instância antiga**, vá em `Preferências` > `Conta` > `Configurações da conta`
 
@@ -49,5 +58,7 @@ Primeiro de tudo, para migrar de uma instância para outra, você deve fazer uma
 7. Coloque seu nome de usuário **da nova instância** e clique em `Migrar seguidores`.
 
     ![Exportar dados](images/screenshots/migrar-instancia/migrate-8.png)
+    
+    Existe a possibilidade deste último passo não funcionar, pois a instância antiga ainda não sabe da existência do alias da nova, caso aconteça tente novamente mais tarde.
 
 Pronto! Você migrou para uma nova instância!
