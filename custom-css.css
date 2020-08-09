@@ -1,0 +1,25 @@
+.table-of-contents li a {
+  white-space: initial;
+  overflow: initial;
+  line-height: 1.5;
+}
+.table-of-contents li li a {
+  font-weight: 400;
+  padding-right: 25px;
+}
+h2#unavailable-content ~ table tr {
+  border: none;
+  line-height: 1;
+}
+h2#unavailable-content ~ table thead,
+h2#unavailable-content ~ table tr td:nth-child(2) {
+  display: none;
+}
+h2#unavailable-content ~ table tr td:nth-child(1) span {
+  white-space: initial;
+  overflow: initial;
+  text-overflow: initial;
+}
+.contact-widget > a {
+  display: block;
+}
